@@ -1,1 +1,1 @@
-# stotify_clone
+# Desafio simples de clone do spotify usando Bootstrap 
